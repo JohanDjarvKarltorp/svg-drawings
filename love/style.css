@@ -1,0 +1,13 @@
+svg {
+  position: absolute;
+  transform: translate(-50%, 0%);
+  top: 20%;
+  height: 50vh;
+  left: 50%;
+}
+
+.path {
+  top: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
