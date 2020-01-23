@@ -2,6 +2,7 @@ svg {
   position: absolute;
   transform: translate(-50%, 0%);
   top: 10%;
+  height: 75vh;
   left: 50%;
 }
 

@@ -1,9 +1,9 @@
 svg {
   position: relative;
   transform: translate(-50%, 0%);
-  top: 20%;
+  top: 30vh;
   height: 50vh;
-  left: 25%;
+  left: 50%;
 }
 
 .path {
