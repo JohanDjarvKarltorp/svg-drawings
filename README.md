@@ -1,5 +1,5 @@
 # svg-drawings
-Make svg drawings looks like their being drawn by the computer by using some css magic. This will only be done once in these examples, update the page to restart the animations.
+Make svg drawings look like they're being drawn by the computer by using some css magic. This will only be done once in these examples, update the page to restart the animations.
 
 Jake Archibald pioneered the technique and has a [super good interactive blog post](https://jakearchibald.com/2013/animated-line-drawing-svg/) on how it works.
 
